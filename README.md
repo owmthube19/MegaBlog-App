@@ -1,16 +1,23 @@
-# React + Vite
+# 🚀 MegaBlog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern full-stack blogging application built with React and Appwrite, featuring secure authentication, content management, image uploads, and rich text editing.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🔐 User Authentication (Signup/Login/Logout)
+- 📝 Create, Edit & Delete Blog Posts
+- 🖼️ Image Upload & Storage with Appwrite
+- ✍️ Rich Text Editor using TinyMCE
+- 🌐 Public Blog Feed
+- ⚡ State Management with Redux Toolkit
+- 📱 Responsive User Interface
+- ☁️ Cloud Deployment on Vercel
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React • Redux Toolkit • Appwrite • TinyMCE • Tailwind CSS • Vercel
 
-## Expanding the ESLint configuration
+👨‍💻 Developed by **Om Thube**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🖇️Vercel App Link :-https://mega-blog-app-2w5n.vercel.app/
